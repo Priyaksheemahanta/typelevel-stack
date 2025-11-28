@@ -45,3 +45,12 @@ build/
 
 ### Scala ###
 .bsp/
+
+target/
+.project
+.idea/
+*.class
+*.log
+.metals/
+.bloop/
+.vscode/
